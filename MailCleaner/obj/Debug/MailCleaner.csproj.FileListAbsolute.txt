@@ -1,0 +1,56 @@
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe.config
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csprojResolveAssemblyReference.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.ResolveComReference.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Form1.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Properties.Resources.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.GenerateResource.Cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.CoreCompileInputs.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.pdb
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe.config
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.ResolveComReference.cache
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.exe
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.pdb
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csprojResolveAssemblyReference.cache
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Form1.resources
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Properties.Resources.resources
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.GenerateResource.Cache
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe
+C:\Projects\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe.config
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csprojResolveAssemblyReference.cache
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.ResolveComReference.cache
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Properties.Resources.resources
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.SendMail.resources
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.GenerateResource.Cache
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.CoreCompileInputs.cache
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.MainForm.resources
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\OpenPop.dll
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\OpenPop.xml
+C:\Users\s.stankovic\Desktop\Work\New folder\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.WaitForm.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe.config
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\OpenPop.dll
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\OpenPop.xml
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csprojResolveAssemblyReference.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.ResolveComReference.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.Properties.Resources.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.GenerateResource.Cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.CoreCompileInputs.cache
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.exe
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.pdb
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.frmLogin.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.frmMainForm.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.frmSendMail.resources
+C:\Users\s.stankovic\Desktop\Work\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.frmLoadingForm.resources
+C:\Users\Korisnik\Downloads\MailCleaner\MailCleaner\MailCleaner\MailCleaner\bin\Debug\MailCleaner.exe.config
+C:\Users\Korisnik\Downloads\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.csproj.ResolveComReference.cache
+C:\Users\Korisnik\Downloads\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.exe
+C:\Users\Korisnik\Downloads\MailCleaner\MailCleaner\MailCleaner\MailCleaner\obj\Debug\MailCleaner.pdb
